@@ -1,7 +1,7 @@
 # OSS Audit Project: LibreOffice
 
-**Student Name:** MOHAMMED RABBANI 
-**Roll Number:** 24MIM10023
+**Student Name:** MADDI BLAJI
+**Roll Number:** 24MIM10049
 **Course:** Open Source Software  
 **Date of Submission:** March 30, 2026
 
